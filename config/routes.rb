@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :notify_messages
   get 'home/index'
   get 'home/index1' 
 

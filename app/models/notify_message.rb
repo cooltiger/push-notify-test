@@ -1,0 +1,2 @@
+class NotifyMessage < ApplicationRecord
+end
